@@ -4,3 +4,5 @@ Projeto de gerenciamento de hospedagens de pessoas análogo ao AirBnb. Esse foi 
 * Utiliza-se base de dados SQL externa por JDBC
 * Tem telas de Login, Locador, Locatário e Admin além de chat
 * Padrão arquitetural MVC
+
+O diagrama de classes está <a href="Diagrama de classes AirBn.pdf">aqui</a>.
